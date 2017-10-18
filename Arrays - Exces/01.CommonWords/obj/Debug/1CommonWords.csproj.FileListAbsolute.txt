@@ -1,0 +1,3 @@
+C:\Users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.exe.config
+C:\Users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.exe
+C:\Users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.pdb

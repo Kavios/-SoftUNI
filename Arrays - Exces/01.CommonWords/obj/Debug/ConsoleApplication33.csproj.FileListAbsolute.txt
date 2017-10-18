@@ -1,0 +1,6 @@
+c:\users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.exe.config
+c:\users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.exe
+c:\users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\bin\Debug\ConsoleApplication33.pdb
+c:\users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.csprojResolveAssemblyReference.cache
+c:\users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.exe
+c:\users\marto\documents\visual studio 2015\Projects\ConsoleApplication33\ConsoleApplication33\obj\Debug\ConsoleApplication33.pdb
